@@ -1,4 +1,4 @@
-
+setuptools
 altair==4.2.2
 anyio==3.6.2
 appnope==0.1.3
