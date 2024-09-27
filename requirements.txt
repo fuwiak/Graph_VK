@@ -25,7 +25,6 @@ dostoevsky==0.6.0
 entrypoints==0.4
 executing==1.2.0
 fastjsonschema==2.16.3
-fasttext
 fonttools==4.39.2
 fqdn==1.5.1
 gensim==4.3.1
@@ -84,6 +83,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==11.0.0
 pybind11==2.10.4
+fasttext
 pycparser==2.21
 pydeck==0.8.0
 Pygments==2.14.0
